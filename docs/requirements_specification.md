@@ -34,3 +34,19 @@
 3. **Usability**: Profile creation shall be completable in 5-7 minutes with clear instructions.
 4. **Reliability**: The system shall have 99.9% uptime for matching and communication features.
 5. **Scalability**: The system shall handle 5,000 concurrent users during peak periods.
+
+
+## MoSCoW Prioritization
+- **Must Have**:
+  - Create profiles, set compatibility criteria, browse roommates, send connection requests, form groups, submit joint applications.
+- **Should Have**:
+  - Chat feature, compatibility score, group agreements.
+- **Could Have**:
+  - Advanced search filters, activity logging, profile update notifications.
+- **Won’t Have** (for now):
+  - Video chat integration, social media profile linking.
+
+### Prioritization Criteria
+- **User Needs**: Profile creation and matching are essential for functionality.
+- **Administrative Needs**: Application submission and review are critical for housing allocation.
+- **Feasibility**: Basic features prioritized over advanced ones like video chat.
